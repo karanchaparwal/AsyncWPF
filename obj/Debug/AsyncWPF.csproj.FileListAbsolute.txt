@@ -1,0 +1,14 @@
+E:\celebal\Dot Net\AsyncWPF\AsyncWPF\bin\Debug\AsyncWPF.exe.config
+E:\celebal\Dot Net\AsyncWPF\AsyncWPF\bin\Debug\AsyncWPF.exe
+E:\celebal\Dot Net\AsyncWPF\AsyncWPF\bin\Debug\AsyncWPF.pdb
+E:\celebal\Dot Net\AsyncWPF\AsyncWPF\obj\Debug\AsyncWPF.csprojResolveAssemblyReference.cache
+E:\celebal\Dot Net\AsyncWPF\AsyncWPF\obj\Debug\MainWindow.g.cs
+E:\celebal\Dot Net\AsyncWPF\AsyncWPF\obj\Debug\App.g.cs
+E:\celebal\Dot Net\AsyncWPF\AsyncWPF\obj\Debug\AsyncWPF_MarkupCompile.cache
+E:\celebal\Dot Net\AsyncWPF\AsyncWPF\obj\Debug\AsyncWPF_MarkupCompile.lref
+E:\celebal\Dot Net\AsyncWPF\AsyncWPF\obj\Debug\MainWindow.baml
+E:\celebal\Dot Net\AsyncWPF\AsyncWPF\obj\Debug\AsyncWPF.g.resources
+E:\celebal\Dot Net\AsyncWPF\AsyncWPF\obj\Debug\AsyncWPF.Properties.Resources.resources
+E:\celebal\Dot Net\AsyncWPF\AsyncWPF\obj\Debug\AsyncWPF.csproj.GenerateResource.Cache
+E:\celebal\Dot Net\AsyncWPF\AsyncWPF\obj\Debug\AsyncWPF.exe
+E:\celebal\Dot Net\AsyncWPF\AsyncWPF\obj\Debug\AsyncWPF.pdb
